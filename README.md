@@ -1,7 +1,7 @@
 # bsmt
 
 A blockchain proof of work written in Rust.
-
+> Disclaimer : For now this is a personnal challenge and it is not meant to be deployed to production
 # Installing Rust
 
 If you work along with a UNIX OS or macOS, please follow these instructions: 
